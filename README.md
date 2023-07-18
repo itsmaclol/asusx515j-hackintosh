@@ -2,13 +2,13 @@
 
 ## Information
 
-To use this EFI, you will need to generate your own SN/UUID using (GenSMBIOS)[https://github.com/corpnewt/gensmbios] from CorpNewt, utilising (this)[https://dortania.github.io/OpenCore-Install-Guide/config-laptop.plist/icelake.html#platforminfo] guide for more information.
+To use this EFI, you will need to generate your own SN/UUID using [GenSMBIOS](https://github.com/corpnewt/gensmbios) from CorpNewt, utilising [this](https://dortania.github.io/OpenCore-Install-Guide/config-laptop.plist/icelake.html#platforminfo) guide for more information.
 
 This EFI has support for Intel Wi-Fi, so if you have any other Wi-Fi card, you would need to tweak the EFI to your needs.
 
 This EFI has support for Intel Bluetooth, so if you have any other Bluetooth card, you would need to tweak the EFI to your needs.
 
-My computer does not have a sound codec and it has internally USB connected speakers, if you have a codec, you would need to add the alcid=(number needed for your codec which you can find (here)[https://github.com/acidanthera/AppleALC/wiki/Supported-codecs]
+My computer does not have a sound codec and it has internally USB connected speakers, if you have a codec, you would need to add the alcid=(number needed for your codec which you can find [here](https://github.com/acidanthera/AppleALC/wiki/Supported-codecs)
 
 # Laptop Specifications
 
