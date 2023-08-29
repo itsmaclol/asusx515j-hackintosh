@@ -61,7 +61,7 @@ Brightness keys
 
 # What doesen't work
 
-Microphone (Mine is intel SST, which will never be supported in hackintoshing but yours might not be and you might need to experimenet with applealc)
+Microphone (Mine is intel SST, which will never be supported in hackintoshing but yours might not be and you might need to experiment with applealc)
 
 Camera (Yours also might work OOB)
 
